@@ -1,11 +1,11 @@
 # Site settings
 author: Lisa Feng
-title: 
+title: Flatiron School Blog
 header-img: img/home-bg.png
 email: lisafeng10@gmail.com
 copyright_name: Lisa Feng
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog for Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  fenglisa
