@@ -63,7 +63,7 @@ Species: Deer
 Personality: Normal
 ```
 
-The ACNH community loves sharing and this CLI application utilizes the free [ACNH API](http://acnhapi.com/). 
+This CLI application utilizes the free [ACNH API](http://acnhapi.com/) which contributed largely to this program running smoothly. For those looking to start their own CLI projects, find a good API!
 
 My takeaway from this project is that building something that interests you is really what makes coding fun. As someone who had no interest in computer science in the past, I finally get the hype!
 
