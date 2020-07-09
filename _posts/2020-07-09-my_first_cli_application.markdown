@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First CLI Application"
-date:       2020-07-09 22:37:08 +0000
+date:       2020-07-09 18:37:09 -0400
 permalink:  my_first_cli_application
 ---
 
@@ -63,7 +63,7 @@ Species: Deer
 Personality: Normal
 ```
 
-The ACNH community loves sharing and this CLI application utilizes the free [ACNH API](http://acnhapi.com/). The GitHub repository for ACNH Villager Finder can be found [here](https://github.com/fenglisa/ACNH-Villagers-CLI).
+The ACNH community loves sharing and this CLI application utilizes the free [ACNH API](http://acnhapi.com/). 
 
 My takeaway from this project is that building something that interests you is really what makes coding fun. As someone who had no interest in computer science in the past, I finally get the hype!
 
