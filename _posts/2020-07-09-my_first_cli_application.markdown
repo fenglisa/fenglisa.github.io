@@ -6,7 +6,7 @@ permalink:  my_first_cli_application
 ---
 
 ##### Can I call myself a software engineer now? 
-For my CLI portfolio project, I wanted to make something that I would use time after time; so I chose to make an *Animal Crossing: New Horizons* villager "finder." 
+For my CLI portfolio project, I wanted it to be about something that I enjoyed; so I chose to make an *Animal Crossing: New Horizons* villager "finder." 
 
 For those who are not familiar with ACNH, it's a game where you curate a deserted island into your own personalized island. A part of the curation is populating your island with villagers. ACNH has over 300 distinct villagers, however, your island can only host up to 10 of them. Once you invite a villager to live on your island, they stay for an indefinite amount of time, so it's better if you like them. That's where my ACNH Villager Finder app comes in. 
 
