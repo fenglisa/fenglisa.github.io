@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Working with Sinatra"
-date:       2020-08-14 01:36:15 +0000
+date:       2020-08-13 21:36:16 -0400
 permalink:  working_with_sinatra
 ---
 
@@ -27,4 +27,4 @@ Even though I made the input fields `required`, I came to discover that users we
 ```
 This would at least prevent users from using purely whitespace as a name. 
 
-Using `shotgun` to see the product of your code coming together really made working through the error messages worth it. I keep hearing about Rails and all the cool things that come with it, so I am already looking forward to the next project!
+Using [`shotgun`](https://rubygems.org/gems/shotgun/versions/0.9.2) to see the product of your code coming together really made working through the error messages worth it. I keep hearing about Rails and all the cool things that come with it, so I am already looking forward to the next project!
