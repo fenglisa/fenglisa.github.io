@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Dabbling with Python"
-date:       2021-01-04 20:34:27 +0000
+date:       2021-01-04 15:34:28 -0500
 permalink:  dabbling_with_python
 ---
 
