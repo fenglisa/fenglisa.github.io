@@ -6,7 +6,7 @@ permalink:  components_of_state
 ---
 
 ## Functional vs. Class
-In the past, only class components had the capability of keeping track of state; functional components just accepted data to to display and were purely presentational. In fact, functional components used to be called "stateless components".
+In the past, only class components had the capability of keeping track of *state*. This was an object where you can store property values that belong to the component. When the state object changes, the component re-renders. Functional components just accepted data to to display and were purely presentational. In fact, functional components used to be called "stateless components".
 
 Now we have [`useState`](https://reactjs.org/docs/hooks-state.html). This is a hook (a special function that lets you “hook into” React features) that takes in an initial state as an argument and returns two values: the current state and the function that updates it. 
 
